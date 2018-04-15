@@ -2,6 +2,10 @@ package com.test.spring.MongoDb.model;
 
 import org.springframework.data.annotation.Id;
 
+/**
+ * @author prkumar
+ */
+
 public class Student {
 	@Id
 	private String  studentId;
