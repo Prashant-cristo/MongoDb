@@ -8,6 +8,9 @@ import com.mongodb.MongoClient;
 import cz.jirutka.spring.embedmongo.EmbeddedMongoFactoryBean;
 import org.springframework.data.mongodb.core.*;
 
+/**
+ * @author prkumar
+ */
 
 @Configuration
 public class MongoConfig {
